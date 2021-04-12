@@ -1,0 +1,10 @@
+emulators:
+  android:
+    caps:
+      deviceName: "Anyname"
+      platformName: "Android"
+      appPackage: "com.google.android.deskclock"
+      appActivity: "com.android.deskclock.DeskClock"
+      autoGrantPermissions: true
+      automationName: "appium"
+      newCommandTimeout: "3600"

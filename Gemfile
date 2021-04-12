@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'appium_lib'
+gem 'cucumber'
+gem 'faker'
+gem 'pry'
+gem 'rspec'
+gem 'rubocop'
+gem 'sauce_whisk'
+gem 'selenium-webdriver'

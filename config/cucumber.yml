@@ -1,0 +1,5 @@
+# config/cucumber.yml
+##YAML Template
+---
+#DISPOSITIVOS
+android: PLATFORM=android -r features/support -r features/android -r features/step_definitions
